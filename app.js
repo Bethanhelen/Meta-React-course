@@ -36,6 +36,6 @@ class Main extends React.Component {
 
 
 ReactDOM.render(
-  <Main title="React" text="WELCOME TO REACT."></Main>,
+  <Main title="React" text="WELCOME TO REACT today."></Main>,
   document.getElementById('react-app')
 );
